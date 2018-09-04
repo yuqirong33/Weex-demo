@@ -1,8 +1,4 @@
-English | [简体中文](README.zh-CN.md)
-
 # 严选 Weex Demo
-
-> further introduction，you can read this [网易严选App感受WEEX开发](https://github.com/zwwill/blog/issues/3)
 
 # Run
 
